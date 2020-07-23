@@ -2,9 +2,9 @@
 
 [LEGO® BOOST](https://www.lego.com/es-es/themes/boost) is a simple robot and it lets children create models with motors and sensors, and then bring their creations to life through simple, icon-based coding commands.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pxukTU_xHEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
-
-[![LEGO BOOST Robot Unboxing](/statics/images/LegoBoost-robotUnboxing.png)](https://www.youtube-nocookie.com/embed/pxukTU_xHEE)
+| [![LEGO BOOST Robot Unboxing](/statics/images/LegoBoost-robotUnboxing.png)](https://www.youtube-nocookie.com/embed/pxukTU_xHEE) |
+|:--:|
+| *LEGO® BOOST Robot Unboxing by LEGO®* |
 
 Here we will share examples of creations made with [Scratch 3.0](https://scratch.mit.edu/) and the extension for Boost together with [Scratch Link](https://scratch.mit.edu/boost), the helper app that lets us connect [Scratch](https://scratch.mit.edu/) to Boost.
 
