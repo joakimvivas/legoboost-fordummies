@@ -28,7 +28,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Licensed under the [MIT License](https://github.com/joakimvivas/legoboost-fordummies/blob/master/LICENSE).
 
-## Related projects
+## Related projects and other Interesting links
 
 - [Lego Boost App](https://github.com/ttu/lego-boost-app), React Application for controlling Lego Boost from the browser with Web Bluetooth API.
 - [Python library for LEGO® PoweredUp devices](https://github.com/undera/pylgbst)
+- [Lego Boost building instructions](https://robotics.benedettelli.com/lego-boost-17101-building-instructions/)(PDF)
