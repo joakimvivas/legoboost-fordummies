@@ -31,4 +31,4 @@ Licensed under the [MIT License](https://github.com/joakimvivas/legoboost-fordum
 ## Related projects
 
 - [Lego Boost App](https://github.com/ttu/lego-boost-app), React Application for controlling Lego Boost from the browser with Web Bluetooth API.
-- [Python library for LEGO® PoweredUp devices](https://github.com/undera/pylgbst) 
+- [Python library for LEGO® PoweredUp devices](https://github.com/undera/pylgbst)
