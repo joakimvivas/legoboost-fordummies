@@ -33,3 +33,4 @@ Licensed under the [MIT License](https://github.com/joakimvivas/legoboost-fordum
 - [Lego Boost App](https://github.com/ttu/lego-boost-app), React Application for controlling Lego Boost from the browser with Web Bluetooth API.
 - [Python library for LEGO® PoweredUp devices](https://github.com/undera/pylgbst)
 - [Lego Boost building instructions](https://robotics.benedettelli.com/lego-boost-17101-building-instructions/)(PDF)
+- [Wall-E Movie sounds](http://www.moviesoundclips.net/sound.php?id=158)
