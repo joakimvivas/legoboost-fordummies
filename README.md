@@ -4,13 +4,13 @@
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pxukTU_xHEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
+[![LEGO BOOST Robot Unboxing](/statics/images/LegoBoost-robotUnboxing.png)](https://www.youtube-nocookie.com/embed/pxukTU_xHEE)
+
 Here we will share examples of creations made with [Scratch 3.0](https://scratch.mit.edu/) and the extension for Boost together with [Scratch Link](https://scratch.mit.edu/boost), the helper app that lets us connect [Scratch](https://scratch.mit.edu/) to Boost.
 
 ## Requirements
 
 Connect [Scratch](https://scratch.mit.edu/) with Boost. Really it is very simple it is only required to have installed on the computer the “[Scratch Link](https://scratch.mit.edu/boost)” and use the [Scratch editor](https://scratch.mit.edu/projects/editor/).
-
-![Scratch and Lego Boost](https://scratch.mit.edu/images/boost/boost-header.svg)
 
 | ![Scratch and Lego Boost](https://scratch.mit.edu/images/boost/boost-header.svg) |
 |:--:|
