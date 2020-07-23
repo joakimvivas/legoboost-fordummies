@@ -15,3 +15,15 @@ Connect [Scratch](https://scratch.mit.edu/) with Boost. Really it is very simple
 | ![Scratch and Lego Boost](https://scratch.mit.edu/images/boost/boost-header.svg) |
 |:--:|
 | *by Scratch and Lego Boost* |
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Disclaimer
+
+[LEGO®](https://www.lego.com/) and [BOOST](https://www.lego.com/es-es/themes/boost) are Trademarks from The LEGO Company, which do not support this project.
+
+## License
+
+Licensed under the [MIT License](https://github.com/joakimvivas/legoboost-fordummies/blob/master/LICENSE).
